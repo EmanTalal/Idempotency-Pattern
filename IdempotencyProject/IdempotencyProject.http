@@ -1,0 +1,6 @@
+@IdempotencyProject_HostAddress = http://localhost:5281
+
+GET {{IdempotencyProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
